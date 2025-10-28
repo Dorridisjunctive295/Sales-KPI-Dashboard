@@ -1,0 +1,20 @@
+CREATE TABLE superstore_sales (
+    Order_ID VARCHAR(50),
+    Order_Date DATE,
+    Ship_Date DATE,
+    Ship_Mode VARCHAR(50),
+    Customer_ID VARCHAR(50),
+    Segment VARCHAR(50),
+    Country VARCHAR(50),
+    City VARCHAR(50),
+    State VARCHAR(50),
+    Region VARCHAR(50),
+    Category VARCHAR(50),
+    Sub_Category VARCHAR(50),
+    TotalSales FLOAT,
+    Quantity INT,
+    Discount FLOAT,
+    Profit FLOAT,
+    ProfitMargin FLOAT,
+    AOV FLOAT
+);
